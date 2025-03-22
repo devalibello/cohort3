@@ -1,3 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
 .header-color {
     color: blue;
 }
+
+.travel {
+    padding: 10px;
+    font-size: 25px;
+    color: red;
+    border: solid 2px blue;
+    max-width: fit-content;
+}
+
+.menu {
+    padding: 10px;
+    font-size: 25px;
+    color: red;
+    border: solid 2px blue;
+    max-width: fit-content;
+}
+
+.nav-section {
+    display: flex;
+    gap: 10px;
+}
+
+.not-working {
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
