@@ -5,60 +5,24 @@
 }
 
 
-.header-color {
-    color: blue;
+.bannerImage {
+    width: 200px;
+    /* position: absolute;
+    right: 0;
+    bottom:0; */
 }
 
-.travel {
-    padding: 10px;
-    font-size: 25px;
-    color: red;
-    border: solid 2px blue;
-    max-width: fit-content;
+.header {
+    font-size: 200%;
 }
 
-.menu {
-    padding: 10px;
-    font-size: 25px;
-    color: red;
-    border: solid 2px blue;
-    max-width: fit-content;
+.heading-container {
+    background-color: rgb(238, 238, 138);
+    padding: 30px;
+    position: relative;
 }
 
-.nav-section {
-    display: flex;
-    gap: 10px;
+.header2 {
+    font-size: 200%;
+
 }
-
-.not-working {
-    display: flex;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
